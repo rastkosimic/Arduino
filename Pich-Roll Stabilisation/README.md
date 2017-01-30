@@ -1,0 +1,3 @@
+# Ship active ride control system
+
+This code is made for the purpose of pitch and roll stabilisation of a ship model. It actuates flaps and T-foils mounted on the model. In order to run this code you need to have IMU that sends necessary inputs to the arduino uno microprocessor that further moves the flaps and T-foils. Actuation of the flaps and T-foils is based on the pitch and roll rate of change.
